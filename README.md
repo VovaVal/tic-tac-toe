@@ -1,2 +1,2 @@
 # tic-tac-toe
-This is tic tac toe game for two players.
+This is a tic tac toe game for two players.
